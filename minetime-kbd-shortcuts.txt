@@ -11,3 +11,8 @@ left arrow: move back
 PgDwn: move back
 right arrow: move forward
 PgUp: move forward
+
+SOURCES:
+https://github.com/marcoancona/MineTime/issues
+Filters: "is:issue keyboard"
+#12 #25 #26 #40 #44 #78 #105 #129 #176
