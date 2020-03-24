@@ -1,0 +1,1 @@
+# minetime-kbd-shortcuts
