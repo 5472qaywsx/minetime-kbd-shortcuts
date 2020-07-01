@@ -12,4 +12,4 @@ Also I should add that I am in no way affiliated or in any other way connected t
 
 ## MineTime keyboard shortcuts
 
-You find them [in this separate file](minetime-kbd-shortcuts.txt).
+You find them [in this separate file](minetime-kbd-shortcuts.md).
