@@ -1,7 +1,7 @@
 
 [Keyboard shortcut] | [action] | [version]
 ------------------- | ---------- | -------
-CTRL+space |  ~~toggle~~ focus assistant "Type here" field | 
+CTRL+space |  ~~toggle~~ focus assistant "Type here" field | >= 1.9
 CTRL+D | duplicate an event (was: toggle dark theme, see issue #78) | 
 CTRL+F | search in calendar (find event) | 
 CTRL+N | new event | 
