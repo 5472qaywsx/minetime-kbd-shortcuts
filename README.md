@@ -2,7 +2,7 @@
 
 ## Scope
 
-Based on my usage of the [MineTime](https://minetime.ai) software, I decided to collect the various keyboard shortcuts that were described in the "Issues" page of [the GitHub page of the MineTime project](https://github.com/marcoancona/MineTime).
+Based on my usage of the MineTime software ([home page](https://minetime.ai), [GitHub page of the MineTime project](https://github.com/marcoancona/MineTime)), I decided to collect the various keyboard shortcuts that were described in the "Issues" page of the GitHub page of the MineTime project.
 
 *Update*: with version 1.8.5 of Minetime, there have been some major updates of the keyboard shortcuts implementation, as indicated [in the announcement](https://github.com/marcoancona/MineTime/releases/tag/v1.8.5).
 
