@@ -12,7 +12,7 @@ CTRL+W | toggle window (this is a global shortcut, must be enabled in app settin
 DEL | delete selected event | 
 ESC | cancel new event creation | 
 left arrow | move back | 
-PgDwn | move back | 
+PgDn | move back | 
 right arrow | move forward | 
 PgUp | move forward | 
 M | Change calendar view with m (month) | >= 1.8.5
@@ -24,5 +24,5 @@ A | Change calendar view with a (agenda) | >= 1.8.5
 SOURCES:
 
 1. https://github.com/marcoancona/MineTime/issues (Filters: "is:issue keyboard"
-Found issues (as of 20200531): #12 #25 #26 #40 #44 #78 #105 #129 #176
+Found issues (as of 20201221): #12 #25 #26 #40 #44 #78 #105 #129 #176
 2. https://github.com/marcoancona/MineTime/releases/tag/v1.8.5
